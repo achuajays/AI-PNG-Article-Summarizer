@@ -20,7 +20,7 @@ After clicking the 'Summarize' button, the app will generate a summary of the ar
 
 ## About
 
-This app uses Hugging Face's Transformers library to summarize articles. It is built using Streamlit, a Python library for building web applications for machine learning and data science. The code is open source and can be found on GitHub: https://github.com/achuajays/AI-Article-Summarizer
+This app uses Hugging Face's Transformers library to summarize articles. It is built using Streamlit, a Python library for building web applications for machine learning and data science. The code is open source and can be found on GitHub: https://github.com/achuajays/AI-PNG-Article-Summarizer
 
 ## Libraries Used
 
